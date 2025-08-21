@@ -1,0 +1,47 @@
+{
+  "G54199": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Silvio Teifel, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Björn Häring, Adalbert-stifer-weg 1, 65307 Bad schwalbach, Deutschland",
+    "price": "3.200 €",
+    "description": "Hersteller: Simson<br>Typ: S51<br>Fahrgestelnummer: 6231360<br>Erstzulassung: 07/1989<br>KM laut Vorbesitzer: 3 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 50 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Manns GmbH<br>Bahnhofstraße 34<br>65307 Bad Schwalbach<br>Deutschland<br>Telefon: +49 176 41233748",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "21-08-2025",
+    "deliveryDate": "26-08-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Bahnhofstraße 34",
+      "postal_code": "65307",
+      "city": "Bad Schwalbach",
+      "country": "Deutschland",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
