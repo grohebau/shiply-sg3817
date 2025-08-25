@@ -1,6 +1,6 @@
 {
   "G54199": {
-    "status": "Versandvorbereitung",
+    "status": "Warten auf Zahlung",
     "statusClass": "pending",
     "sender": "Silvio Teifel, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Björn Häring, Adalbert-stifer-weg 1, 65307 Bad schwalbach, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "21-08-2025",
-    "deliveryDate": "26-08-2025",
+    "deliveryDate": "27-08-2025",
     "pickup": {
       "street": "",
       "postal_code": "",
